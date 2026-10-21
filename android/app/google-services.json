@@ -1,49 +1,34 @@
 {
   "project_info": {
-    "project_number": "359617287559",
-    "project_id": "aicareer-dbb12",
-    "storage_bucket": "aicareer-dbb12.firebasestorage.app"
+    "project_number": "404794325744",
+    "project_id": "ai-project-44b66",
+    "storage_bucket": "ai-project-44b66.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:359617287559:android:fc0c32eba860882aaf6f22",
+        "mobilesdk_app_id": "1:404794325744:android:fc6ad766a6833eeea12035",
         "android_client_info": {
-          "package_name": "com.example.ai_career_mentor"
+          "package_name": "com.aicareermentor.ai_career_mentor"
         }
       },
       "oauth_client": [
         {
-          "client_id": "359617287559-9idbbqbn6f9rdsmffbveurtlni4sfrtm.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.ai_career_mentor",
-            "certificate_hash": "c6be53ee72190ce357489c71a1ceb6b6cbd424c9"
-          }
-        },
-        {
-          "client_id": "359617287559-dmd600e03glj5r43tf8rr22qnqt6g49c.apps.googleusercontent.com",
+          "client_id": "404794325744-s8a3unr0uengsj6e59o9ahncstfv9rj1.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC5wThwBrm8BuD7f9dLtpeIiwK_BIZlh4c"
+          "current_key": "AIzaSyCiakMq_320xU7HNgOsewMyhgozxZR-CGY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "359617287559-dmd600e03glj5r43tf8rr22qnqt6g49c.apps.googleusercontent.com",
+              "client_id": "404794325744-s8a3unr0uengsj6e59o9ahncstfv9rj1.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "359617287559-j4kbu80geq150nam9kigend5kqglb44o.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.example.aiCareerMentor"
-              }
             }
           ]
         }

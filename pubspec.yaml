@@ -1,3 +1,4 @@
+
 name: ai_career_mentor
 description: "AI Career Mentor - Your AI Career Companion"
 publish_to: 'none'
@@ -12,16 +13,36 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.8
+
+  # Firebase
   firebase_core: ^4.14.0
   firebase_auth: ^6.6.1
   cloud_firestore: ^6.9.0
+  firebase_storage: ^13.6.0
+  firebase_messaging: ^16.7.0
+
+  # Authentication
   google_sign_in: ^7.2.0
+
+  # File and image handling
+  file_picker: ^10.3.3
+  image_picker: ^1.2.3
+
+  # Notifications
+  flutter_local_notifications: ^22.3.1
+  timezone: ^0.11.1
+
+  # Networking and links
   http: ^1.6.0
   url_launcher: ^6.3.2
+
+  # PDF
   pdf: ^3.13.0
   printing: ^5.15.0
+
+  # YouTube
   youtube_player_flutter: ^10.0.1
-  image_picker: ^1.2.3
+  youtube_player_iframe: ^6.0.2
 
 dev_dependencies:
   flutter_test:
@@ -34,3 +55,44 @@ flutter:
 
   assets:
     - assets/images/
+
+
+# name: ai_career_mentor
+# description: "AI Career Mentor - Your AI Career Companion"
+# publish_to: 'none'
+
+# version: 1.0.0+1
+
+# environment:
+#   sdk: ^3.12.0
+
+# dependencies:
+#   flutter:
+#     sdk: flutter
+
+
+#   file_picker: ^10.3.3
+#   cupertino_icons: ^1.0.8
+#   firebase_core: ^4.14.0
+#   firebase_auth: ^6.6.1
+#   cloud_firestore: ^6.9.0
+#   google_sign_in: ^7.2.0
+#   http: ^1.6.0
+#   url_launcher: ^6.3.2
+#   pdf: ^3.13.0
+#   printing: ^5.15.0
+#   youtube_player_flutter: ^10.0.1
+#   image_picker: ^1.2.3
+#   youtube_player_iframe: ^6.0.2
+
+# dev_dependencies:
+#   flutter_test:
+#     sdk: flutter
+
+#   flutter_lints: ^6.0.0
+
+# flutter:
+#   uses-material-design: true
+
+#   assets:
+#     - assets/images/
